@@ -1,0 +1,63 @@
+body {
+  margin: 15px;
+  background-color: rgb(47, 75, 255);
+}
+h1,
+h2,
+h4,
+h5,
+h6,
+.form-label {
+  font-family: "Roboto", sans-serif;
+  color: #eeeeee;
+}
+
+h1 {
+  font-size: 120px;
+}
+h2,
+h5 {
+  font-size: 50px;
+}
+h3 {
+  color: #eeeeee;
+  width: 18rem;
+  font-size: 35px;
+  text-align: center;
+}
+h6 {
+  font-size: 35px;
+}
+.transbox {
+  margin: 20px 0px;
+  padding: 10px;
+  background-color: #0d6efd;
+  text-align: center;
+  border-radius: 10px;
+  transition: all 200ms ease-in-out;
+}
+
+.img {
+  display: block;
+  margin: 0 auto;
+}
+
+.card-title {
+  color: #eeeeee;
+  font-size: 25px;
+  text-align: center;
+  margin: -5px 0px;
+}
+
+.card-text {
+  color: #eeeeee;
+  font-size: 20px;
+  text-align: center;
+  margin: -5px 0px;
+}
+.card-img {
+  width: 130px;
+}
+.col-3 {
+  text-align: center;
+}
