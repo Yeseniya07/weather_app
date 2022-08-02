@@ -1,5 +1,5 @@
 body {
-  margin: 15px;
+  margin: 10px;
   background-color: rgb(47, 75, 255);
 }
 h1,
@@ -30,7 +30,7 @@ h6 {
 }
 .transbox {
   margin: 20px 0px;
-  padding: 10px;
+  padding: 5px;
   background-color: #0d6efd;
   text-align: center;
   border-radius: 10px;
@@ -56,8 +56,17 @@ h6 {
   margin: -5px 0px;
 }
 .card-img {
-  width: 130px;
+  width: 120px;
 }
 .col-3 {
   text-align: center;
+}
+.author {
+  color: #eeeeee;
+  font-size: 15px;
+  text-align: left;
+  margin: 5px 0px;
+}
+a {
+  color: #eeeeee;
 }
